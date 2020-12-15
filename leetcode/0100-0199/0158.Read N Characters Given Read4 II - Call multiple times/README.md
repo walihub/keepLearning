@@ -1,0 +1,25 @@
+# [158. 用 Read4 读取 N 个字符 II](https://leetcode-cn.com/problems/read-n-characters-given-read4-ii-call-multiple-times)
+
+[English Version](//leetcode/0100-0199/0158.Read%20N%20Characters%20Given%20Read4%20II%20-%20Call%20multiple%20times/README_EN.md)
+
+## 题目描述
+
+<!-- 这里写题目描述 -->
+
+None
+
+## 解法
+
+<!-- 这里可写通用的实现逻辑 -->
+
+<!-- tabs:start -->
+
+### **Python**
+
+<!-- 这里可写当前语言的特殊实现逻辑 -->
+
+```python
+
+```
+
+<!-- tabs:end -->

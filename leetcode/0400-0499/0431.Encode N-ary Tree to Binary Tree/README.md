@@ -1,0 +1,25 @@
+# [431. 将 N 叉树编码为二叉树](https://leetcode-cn.com/problems/encode-n-ary-tree-to-binary-tree)
+
+[English Version](/leetcode/0400-0499/0431.Encode%20N-ary%20Tree%20to%20Binary%20Tree/README_EN.md)
+
+## 题目描述
+
+<!-- 这里写题目描述 -->
+
+None
+
+## 解法
+
+<!-- 这里可写通用的实现逻辑 -->
+
+<!-- tabs:start -->
+
+### **Python**
+
+<!-- 这里可写当前语言的特殊实现逻辑 -->
+
+```python
+
+```
+
+<!-- tabs:end -->

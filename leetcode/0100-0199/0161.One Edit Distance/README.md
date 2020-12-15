@@ -1,0 +1,25 @@
+# [161. 相隔为 1 的编辑距离](https://leetcode-cn.com/problems/one-edit-distance)
+
+[English Version](//leetcode/0100-0199/0161.One%20Edit%20Distance/README_EN.md)
+
+## 题目描述
+
+<!-- 这里写题目描述 -->
+
+None
+
+## 解法
+
+<!-- 这里可写通用的实现逻辑 -->
+
+<!-- tabs:start -->
+
+### **Python**
+
+<!-- 这里可写当前语言的特殊实现逻辑 -->
+
+```python
+
+```
+
+<!-- tabs:end -->
