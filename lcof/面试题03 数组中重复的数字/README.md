@@ -32,9 +32,41 @@
 ### **Python**
 
 <!-- 这里可写当前语言的特殊实现逻辑 -->
-
+`一个萝卜一个坑`的思路，题目中给出n个数字的范围在0～n-1之间，如果数组中没有重复元素，
+那么所有元素排序之后索引与元素相等`i=num`。所以遍历数组，如果`i!=num`，两种可能：
+如果当前元素与它索引位置相等，一定是重复元素；否则将该元素与其索引位置交换。
 ```python
-
+class Solution(object):
+    def findRepeatNumber(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        for i in range(len(nums)):
+            while i != nums[i]:
+                if nums[i] == nums[nums[i]]:
+                    return nums[i]
+                else:
+                    temp = nums[i]
+                    nums[i] = nums[temp]
+                    nums[temp] = temp
+        return -1
 ```
 
+`hash方法`，利用hash表检查元素是否重复。
+```python
+class Solution(object):
+    def findRepeatNumber(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        nums_map = {}
+        for num in nums:
+            if num in nums_map:
+                return num
+            else:
+                nums_map[num] = 1
+        return -1
+```
 <!-- tabs:end -->
