@@ -786,7 +786,7 @@
 |  [0782](https://leetcode-cn.com/problems/transform-to-chessboard)  |  [变为棋盘](/leetcode/0700-0799/0782.Transform%20to%20Chessboard/README.md)  |  `数组`,`数学`  |  困难  |    |
 |  [0783](https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes)  |  [二叉搜索树节点最小距离](/leetcode/0700-0799/0783.Minimum%20Distance%20Between%20BST%20Nodes/README.md)  |  `树`,`递归`  |  简单  |    |
 |  [0784](https://leetcode-cn.com/problems/letter-case-permutation)  |  [字母大小写全排列](/leetcode/0700-0799/0784.Letter%20Case%20Permutation/README.md)  |  `位运算`,`回溯算法`  |  中等  |    |
-|  [0785](https://leetcode-cn.com/problems/is-graph-bipartite)  |  [判断二分图](/leetcode/0700-0799/0785.Is%20Graph%20Bipartite%3F/README.md)  |  `深度优先搜索`,`广度优先搜索`,`图`  |  中等  |    |
+|  [0785](https://leetcode-cn.com/problems/is-graph-bipartite)  |  [判断二分图](/leetcode/0700-0799/0785.Is%20Graph%20Bipartite/README.md)  |  `深度优先搜索`,`广度优先搜索`,`图`  |  中等  |    |
 |  [0786](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction)  |  [第 K 个最小的素数分数](/leetcode/0700-0799/0786.K-th%20Smallest%20Prime%20Fraction/README.md)  |  `堆`,`二分查找`  |  困难  |    |
 |  [0787](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops)  |  [K 站中转内最便宜的航班](/leetcode/0700-0799/0787.Cheapest%20Flights%20Within%20K%20Stops/README.md)  |  `堆`,`广度优先搜索`,`动态规划`  |  中等  |    |
 |  [0788](https://leetcode-cn.com/problems/rotated-digits)  |  [旋转数字](/leetcode/0700-0799/0788.Rotated%20Digits/README.md)  |  `字符串`  |  简单  |    |
